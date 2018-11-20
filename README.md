@@ -1,2 +1,2 @@
 # gathering
-gathering and spread functions for bah 709
+gathering and spread functions for bch 709
